@@ -1,0 +1,23 @@
+{
+  "name": "cyberassignment",
+  "version": "1.0.0",
+  "description": "## 1. Web Service Architecture & Server Roles",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pal315/cyberassignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pal315/cyberassignment/issues"
+  },
+  "homepage": "https://github.com/Pal315/cyberassignment#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
